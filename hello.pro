@@ -1,0 +1,10 @@
+TARGET = hello
+TEMPLATE = lib
+CONFIG += C++11
+
+DEFINES += QT_DEPRECATED_WARNINGS
+DESTDIR = $$PWD/../lib
+SOURCES += hello.cpp
+
+HEADERS += hello.h
+
