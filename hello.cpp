@@ -1,5 +1,5 @@
 #include "hello.h"
 void HelloFunc()
 {
-    printf("Hello World 5\n");
+    printf("Hello World 6\n");
 }
